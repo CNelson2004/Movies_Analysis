@@ -1,0 +1,65 @@
+Notes:
+(700 -1100 words)
+Easy to skim: Make use of headings, subheadings, bullet points, or numbered lists to make the post readable and easy to skim.
+Links: Include links to original sources, further information, or related resources.  Links should be "live" and formatted (don't print the actual url, rather make a linkable text item)
+Keep in mind the principles of good blogging (easy to read, images and figures to enhance, relevant and interesting, etc.)
+Resist the temptation to write a "log" of everything you did and/or went through to gather your data.  
+    Include just enough information so that someone else can learn from what you did and possibly gather similar data
+
+
+
+Post:
+
+Intro-
+    Hello there! Welcome to my data science blog! Today I will be teaching you how to scrape your own movie dataset,
+    and then use it to find interesting relations between that movie, it's ratings, it revenue, and more!
+
+Why project relevant-
+    This project is relevant because new movies are coming out every month, and we want to if they are worth watching before they come out.
+    Disney in particular has been producing many movies over hte recent years. 
+    IF we can find trends in what movies will be good or not, we can save ourselves headache in trying to decide if it is worth our time and dime.
+
+why project interesting-
+    This project is interesting because it can show how people have viewed disney and it's movies over time
+    Does familiarity bring comfort or breed contempt? 
+
+Motivating Question (what do we hope to learn from the data)-
+    We hope to learn 
+
+Why it is ethical to get the data we gathered-
+    It is ethical to gather the data we gathered because we abided by the robots.txt and used a public website with public information. 
+
+How we implemented good scraping practice-
+    We included a header in our request 
+    We abided by all rules in robots.txt
+        We ensured we didn't go onto any websites where we weren't wanted
+        There was not timer, but we made sure to only scrape once in a while and not constantly
+            (I'm not sure how this is different with pandas.read_html, but I know only used it once, and then not for a few minutes later)
+
+Summary of steps to obtain data (emphasis on teaching other how to get started with similar project)
+    (Don't be too detailed)
+    1. scraped titles and year from website
+    2. reformatted the titles to fit rotten_tomatoes formula
+    3. created rotten tomatoes urls
+    4. checked the urls to see if they worked
+    5. If they didn't we tried multiple methods to fix them, and for hte unique ones, manually fixed them.
+    6. Then we took each url and scrapped the information we needed from it.
+    7. Then we turned it into a pandas dataframe
+    8. Then we cleaned that dataframe
+    9. All done! dataset is ready to be analyzed!
+
+
+Summary information/statistics/graphics-
+    (Concerning info: total sample size, counts of categorical variables, numerical summaries of numeric variables)
+
+
+Most interesting findings-
+
+
+Links to further info and resources-
+Original movie source: https://en.wikipedia.org/wiki/List_of_Walt_Disney_Pictures_films
+Source for ratings: https://www.rottentomatoes.com/
+Related sources others could use: https://www.metacritic.com/movie/  and  https://www.imdb.com/
+
+Link to code in separate github repo-
+https://github.com/CNelson2004/Movies_Analysis
