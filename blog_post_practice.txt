@@ -24,7 +24,8 @@ why project interesting-
     Does familiarity bring comfort or breed contempt? 
 
 Motivating Question (what do we hope to learn from the data)-
-    We hope to learn 
+    We hope to find a correlation between factors that might show us in advance if something is worth seeing or if a movie will be worth making for Disney.
+    We wouldn’t want to expect a sequel only to learn that no one paid for the first movie. 
 
 Why it is ethical to get the data we gathered-
     It is ethical to gather the data we gathered because we abided by the robots.txt and used a public website with public information. 
@@ -47,13 +48,25 @@ Summary of steps to obtain data (emphasis on teaching other how to get started w
     7. Then we turned it into a pandas dataframe
     8. Then we cleaned that dataframe
     9. All done! dataset is ready to be analyzed!
+   
+
 
 
 Summary information/statistics/graphics-
     (Concerning info: total sample size, counts of categorical variables, numerical summaries of numeric variables)
+mean Revenue                        83668368.78
+mean Audience-Score                 61.017    
+mean Critic-Score                   62.65               
+Audience and Critic coralation      0.72
+
 
 
 Most interesting findings-
+1. Movie ratings appear to be consistently going up each decade (on average), indicating that movies are getting better. 
+2. Movies rated R have the lowest revenue amount on average (this may be affected by the low number of R-rated movies).
+3. Movies rated PG-13 have a noticeable but slight average increase in revenue.
+4. TV-14 is the highest-rated film on average, with TV-PG the lowest.
+
 
 
 Links to further info and resources-
