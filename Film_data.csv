@@ -1,0 +1,524 @@
+Title,Audience-Score,Critic-Score,Revenue,Release-Date,Year,Film-Rating,Director,Genre,Runtime,month,season,Decade
+Snow White and the Seven Dwarfs,78,97,,,,G,David Hand,"['Kids & Family', 'Fantasy', 'Animation']",80,,,
+Pinocchio,33,0,3700000,2002-12-25,2002.0,G,Roberto Benigni,"['Kids & Family', 'Fantasy', 'Comedy', 'Drama']",107,12.0,Winter,2000.0
+Fantasia,83,95,24800000,1940-11-13,1940.0,G,James Algar,"['Kids & Family', 'Fantasy', 'Animation']",120,11.0,Fall,1940.0
+The Reluctant Dragon,66,100,,1941-01-02,1941.0,,Alfred L. Werker,"['Kids & Family', 'Fantasy']",72,1.0,Winter,1940.0
+Dumbo,70,95,,1941-10-23,1941.0,G,Ben Sharpsteen,"['Kids & Family', 'Fantasy', 'Animation']",64,10.0,Fall,1940.0
+Bambi,73,91,38100000,1942-08-21,1942.0,G,David Hand,"['Kids & Family', 'Fantasy', 'Adventure', 'Animation']",70,8.0,Summer,1940.0
+Saludos Amigos,40,82,,1943-02-06,1943.0,,Norman Ferguson,"['Kids & Family', 'Musical']",45,2.0,Winter,1940.0
+Victory Through Air Power,52,,,,,,James Algar,['Documentary'],70,,,
+The Three Caballeros,64,85,,1945-02-03,1945.0,G,Norman Ferguson,"['Kids & Family', 'Musical', 'Fantasy', 'Comedy']",70,2.0,Winter,1940.0
+Make Mine Music,40,58,,,,,Jack Kinney,"['Kids & Family', 'Fantasy', 'Animation']",75,,,
+Song of the South,72,50,,1949-11-12,1949.0,G,Harve Foster,"['Kids & Family', 'Fantasy']",95,11.0,Fall,1940.0
+Fun and Fancy Free,58,73,,1947-09-27,1947.0,G,Jack Kinney,"['Kids & Family', 'Fantasy']",73,9.0,Fall,1940.0
+Melody Time,48,69,,1948-05-27,1948.0,,Clyde Geronimi,"['Kids & Family', 'Musical', 'Animation']",75,5.0,Spring,1940.0
+So Dear to My Heart,50,,,1949-01-19,1949.0,G,Harold D. Schuster,"['Kids & Family', 'Drama']",85,1.0,Winter,1940.0
+The Adventures of Ichabod and Mr. Toad,71,89,,1949-10-05,1949.0,G,Jack Kinney,"['Kids & Family', 'Fantasy', 'Animation']",68,10.0,Fall,1940.0
+Cinderella,80,95,33500000,1950-02-15,1950.0,G,Clyde Geronimi,"['Kids & Family', 'Fantasy', 'Animation']",74,2.0,Winter,1950.0
+Treasure Island,,82,,,,,Maurice Tourneur,['Adventure'],76,,,
+Alice in Wonderland,,,,,,,Robson Lima,"['Kids & Family', 'Fantasy', 'Animation']",50,,,
+The Story of Robin Hood and His Merrie Men,65,,,1952-06-26,1952.0,PG,Ken Annakin,"['Kids & Family', 'Adventure']",84,6.0,Summer,1950.0
+Peter Pan,50,,,,,,,"['Fantasy', 'Animation']",46,,,
+The Sword and the Rose,32,,,1953-07-23,1953.0,PG,Ken Annakin,['Adventure'],93,7.0,Summer,1950.0
+The Living Desert,74,,,1953-11-10,1953.0,G,James Algar,['Documentary'],70,11.0,Fall,1950.0
+"Rob Roy, the Highland Rogue",40,,,1954-02-27,1954.0,,Harold French,['Adventure'],89,2.0,Winter,1950.0
+Vanishing Prairie,84,,,1954-08-17,1954.0,G,James Algar,['Documentary'],71,8.0,Summer,1950.0
+"20,000 Leagues Under the Sea",74,91,,1954-12-23,1954.0,G,Richard Fleischer,"['Kids & Family', 'Drama', 'Adventure', 'Fantasy']",127,12.0,Winter,1950.0
+Davy Crockett: King of the Wild Frontier,78,100,,1955-05-25,1955.0,PG,Norman Foster,"['Kids & Family', 'Adventure']",93,5.0,Spring,1950.0
+Lady and the Tramp,80,91,,1955-06-22,1955.0,G,Clyde Geronimi,"['Kids & Family', 'Romance', 'Comedy', 'Animation']",76,6.0,Summer,1950.0
+The African Lion,63,,,1955-09-14,1955.0,G,Alfred Milotte,['Documentary'],75,9.0,Fall,1950.0
+The Littlest Outlaw,50,85,,1955-12-22,1955.0,,Roberto Gavaldón,"['Kids & Family', 'Drama']",75,12.0,Winter,1950.0
+The Great Locomotive Chase,59,,,1956-01-26,1956.0,,Francis D. Lyon,"['History', 'Drama']",85,1.0,Winter,1950.0
+Davy Crockett and the River Pirates,66,,,1956-07-18,1956.0,G,Norman Foster,"['Kids & Family', 'Adventure']",81,7.0,Summer,1950.0
+The Secrets of Life,56,,,,,,James Algar,['Documentary'],75,,,
+Westward Ho the Wagons!,44,,,,,,William Beaudine,['Western'],90,,,
+Johnny Tremain,49,,,,,,Robert Stevenson,"['History', 'Drama']",80,,,
+Perri,64,,,1957-08-28,1957.0,G,Paul Kenworthy Jr.,['Documentary'],74,8.0,Summer,1950.0
+Old Yeller,79,100,,1957-12-25,1957.0,G,Robert Stevenson,"['Kids & Family', 'Drama']",83,12.0,Winter,1950.0
+The Light in the Forest,46,,,,,,Herschel Daugherty,['Adventure'],95,,,
+White Wilderness,22,,,1958-08-12,1958.0,G,James Algar,['Documentary'],73,8.0,Summer,1950.0
+Tonka,69,,,,,,Lewis R. Foster,['Western'],97,,,
+Sleeping Beauty,,,,,,,Koen Kessels,"['Music', 'Fantasy']",141,,,
+The Shaggy Dog,,,,,,,Dennis Dugan,['Comedy'],96,,,
+Darby O'Gill and the Little People,77,100,,1959-06-26,1959.0,G,Robert Stevenson,['Fantasy'],95,6.0,Summer,1950.0
+Third Man on the Mountain,73,,,,,G,Ken Annakin,"['Kids & Family', 'Adventure']",107,,,
+Toby Tyler,68,,,1960-01-21,1960.0,G,Charles Barton,"['Kids & Family', 'Adventure']",96,1.0,Winter,1960.0
+Kidnapped,52,,,,,PG,Robert Stevenson,"['Adventure', 'Action']",94,,,
+Pollyanna,44,,,,,,Paul Powell,"['Kids & Family', 'Comedy']",60,,,
+The Sign of Zorro,48,,,,,G,Norman Foster,"['Kids & Family', 'Adventure']",91,,,
+Jungle Cat,82,,,,,,James Algar,['Documentary'],70,,,
+Ten Who Dared,22,,,,,,William Beaudine,['Adventure'],92,,,
+Swiss Family Robinson,,,,,,,Leif Gram,"['Kids & Family', 'Adventure', 'Animation']",49,,,
+101 Dalmatians,76,98,91300000,,,G,Wolfgang Reitherman,"['Kids & Family', 'Comedy', 'Adventure', 'Animation']",79,,,
+The Absent Minded Professor,63,83,,,,G,Robert Stevenson,"['Kids & Family', 'Comedy']",97,,,
+The Parent Trap,70,87,66300000,1998-07-20,1998.0,PG,Nancy Meyers,"['Kids & Family', 'Comedy']",127,7.0,Summer,1990.0
+"Nikki, Wild Dog of the North",56,,,,,G,Jack Couffer,"['Kids & Family', 'Adventure']",74,,,
+Greyfriars Bobby,79,100,,1961-07-17,1961.0,,Don Chaffey,"['Kids & Family', 'Drama']",91,7.0,Summer,1960.0
+Babes in Toyland,41,,,,,G,Charles Grosvenor,"['Kids & Family', 'Holiday', 'Musical', 'Animation']",74,,,
+Moon Pilot,50,,,,,,James Neilson,['Sci-Fi'],98,,,
+Bon Voyage,,,,,,,Francoise Alexander,"['Crime', 'Drama']",19,,,
+Big Red,45,,,1962-06-06,1962.0,,Norman Tokar,"['Kids & Family', 'Adventure']",89,6.0,Summer,1960.0
+Almost Angels,62,,,1962-09-26,1962.0,,Steve Previn,"['Kids & Family', 'Drama']",93,9.0,Fall,1960.0
+The Legend of Lobo,33,,,,,G,James Algar,"['Kids & Family', 'Adventure']",67,,,
+In Search of the Castaways,63,,,1962-12-19,1962.0,G,Robert Stevenson,"['Kids & Family', 'Adventure']",100,12.0,Winter,1960.0
+Son of Flubber,48,88,,1963-01-16,1963.0,G,Robert Stevenson,"['Kids & Family', 'Comedy']",100,1.0,Winter,1960.0
+Miracle of the White Stallions,69,,,,,,Arthur Hiller,['Adventure'],117,,,
+Savage Sam,47,50,,1963-06-01,1963.0,,Norman Tokar,['Adventure'],103,6.0,Summer,1960.0
+Summer Magic,76,,,1963-07-07,1963.0,G,James Neilson,"['Kids & Family', 'Musical', 'Comedy']",100,7.0,Summer,1960.0
+The Incredible Journey,74,89,,1963-10-30,1963.0,G,Fletcher Markle,"['Kids & Family', 'Adventure']",80,10.0,Fall,1960.0
+The Sword in the Stone,,,,,,G,Wolfgang Reitherman,"['Kids & Family', 'Fantasy', 'Animation']",80,,,
+A Tiger Walks,50,,,,,,Norman Tokar,['Drama'],91,,,
+The Misadventures of Merlin Jones,60,,,1964-03-25,1964.0,G,Robert Stevenson,"['Kids & Family', 'Comedy']",93,3.0,Spring,1960.0
+The Three Lives of Thomasina,73,,,,,PG,Don Chaffey,['Fantasy'],97,,,
+The Moon-Spinners,61,,,1964-07-02,1964.0,PG,James Neilson,['Mystery & Thriller'],118,7.0,Summer,1960.0
+Mary Poppins,86,97,,1964-08-27,1964.0,G,Robert Stevenson,"['Kids & Family', 'Musical']",140,8.0,Summer,1960.0
+Those Calloways,52,,,1965-01-28,1965.0,PG,Norman Tokar,"['Kids & Family', 'Drama']",131,1.0,Winter,1960.0
+Emil and the Detectives,43,83,,1964-12-18,1964.0,,Peter Tewksbury,"['Kids & Family', 'Adventure']",99,12.0,Winter,1960.0
+The Monkey's Uncle,40,,,1965-06-23,1965.0,,Robert Stevenson,"['Kids & Family', 'Comedy']",90,6.0,Summer,1960.0
+That Darn Cat,24,13,18300000,1997-02-14,1997.0,PG,Bob Spiers,"['Kids & Family', 'Comedy']",89,2.0,Winter,1990.0
+The Ugly Dachshund,73,,,1966-02-04,1966.0,,Norman Tokar,"['Kids & Family', 'Comedy']",93,2.0,Winter,1960.0
+"Lt. Robin Crusoe, U.S.N.",41,,,1966-06-29,1966.0,G,Byron Paul,"['Kids & Family', 'Comedy']",110,6.0,Summer,1960.0
+The Fighting Prince of Donegal,15,,,1966-10-01,1966.0,,Michael O'Herlihy,['Adventure'],112,10.0,Fall,1960.0
+"Follow Me, Boys!",76,,,1966-12-01,1966.0,G,Norman Tokar,"['Kids & Family', 'Comedy', 'Drama']",131,12.0,Winter,1960.0
+"Monkeys, Go Home!",43,,,1967-02-08,1967.0,,Andrew V. McLaglen,"['Kids & Family', 'Romance', 'Comedy']",89,2.0,Winter,1960.0
+The Adventures of Bullwhip Griffin,39,50,,,,,James Neilson,['Comedy'],110,,,
+The Gnome-Mobile,59,,,1967-07-12,1967.0,G,Robert Stevenson,"['Kids & Family', 'Fantasy']",90,7.0,Summer,1960.0
+The Jungle Book,79,,,,,G,Wolfgang Reitherman,"['Kids & Family', 'Adventure', 'Animation']",78,,,
+"Charlie, the Lonesome Cougar",62,,,,,,Winston Hibler,"['Kids & Family', 'Adventure']",75,,,
+The Happiest Millionaire,80,50,,1967-11-30,1967.0,G,Norman Tokar,"['Kids & Family', 'Musical']",164,11.0,Fall,1960.0
+Blackbeard's Ghost,71,82,,,,G,Robert Stevenson,"['Kids & Family', 'Fantasy']",106,,,
+The Family Band,60,,,,,G,Michael O'Herlihy,"['Kids & Family', 'Musical']",117,,,
+Never a Dull Moment,29,,,,,,George Marshall,['Comedy'],89,,,
+The Horse in the Gray Flannel Suit,69,,,,,G,Norman Tokar,['Comedy'],113,,,
+Love Bug,,,,,,,Ben Kent,"['Comedy', 'Horror']",14,,,
+Smith!,,,,1969-03-21,1969.0,G,Michael O'Herlihy,['Western'],101,3.0,Spring,1960.0
+Rascal,42,,,1969-06-11,1969.0,G,Norman Tokar,"['Kids & Family', 'Comedy', 'Drama']",84,6.0,Summer,1960.0
+The Computer Wore Tennis Shoes,40,57,,,,G,Robert Butler,"['Kids & Family', 'Comedy']",91,,,
+King of the Grizzlies,25,,,,,G,Ron Kelly,"['Kids & Family', 'Adventure']",93,,,
+The Boatniks,52,,,,,G,Norman Tokar,['Comedy'],100,,,
+The Wild Country,,,,1970-12-15,1970.0,G,Robert Totten,"['Kids & Family', 'Adventure']",100,12.0,Winter,1970.0
+The Aristocats,,,,,,G,Wolfgang Reitherman,"['Kids & Family', 'Comedy', 'Animation']",78,,,
+The Barefoot Executive,,,,,,TV-G,Susan Seidelman,['Comedy'],97,,,
+Scandalous John,,20,,,,G,Robert Butler,"['Western', 'Comedy']",114,,,
+"$1,000,000 Duck",41,17,,,,G,Vincent McEveety,"['Kids & Family', 'Fantasy']",92,,,
+Bedknobs and Broomsticks,74,66,,1971-10-07,1971.0,G,Robert Stevenson,"['Kids & Family', 'Fantasy']",117,10.0,Fall,1970.0
+The Biscuit Eater,100,,,1940-05-24,1940.0,,Stuart Heisler,['Drama'],83,5.0,Spring,1940.0
+"Now You See Him, Now You Don't",57,80,,,,G,Robert Butler,"['Kids & Family', 'Comedy']",88,,,
+Napoleon and Samantha,43,,,1972-07-19,1972.0,G,Bernard McEveety,"['Kids & Family', 'Adventure']",92,7.0,Summer,1970.0
+"Run, Cougar, Run",,,,,,G,Jerome Courtland,['Adventure'],86,,,
+Snowball Express,60,,,,,G,Norman Tokar,"['Kids & Family', 'Comedy']",99,,,
+The World's Greatest Athlete,33,,,1973-02-04,1973.0,G,Robert Scheerer,"['Kids & Family', 'Comedy']",93,2.0,Winter,1970.0
+Charley and the Angel,32,,,1973-03-23,1973.0,G,Vincent McEveety,"['Kids & Family', 'Fantasy']",93,3.0,Spring,1970.0
+One Little Indian,34,,,1973-06-20,1973.0,G,Bernard McEveety,"['Western', 'Comedy']",90,6.0,Summer,1970.0
+Robin Hood,,,,,,,,"['Adventure', 'Action', 'Animation']",86,,,
+Superdad,35,,,,,G,Vincent McEveety,"['Kids & Family', 'Comedy']",95,,,
+Herbie Rides Again,54,83,,,,G,Robert Stevenson,"['Kids & Family', 'Comedy']",88,,,
+The Bears and I,31,,,1974-07-31,1974.0,G,Bernard McEveety,"['Kids & Family', 'Adventure']",89,7.0,Summer,1970.0
+The Castaway Cowboy,24,,,1974-08-01,1974.0,G,Vincent McEveety,"['Kids & Family', 'Comedy']",91,8.0,Summer,1970.0
+The Island at the Top of the World,46,50,,1974-12-20,1974.0,G,Robert Stevenson,"['Kids & Family', 'Adventure']",95,12.0,Winter,1970.0
+The Strongest Man in the World,38,,,1975-02-06,1975.0,G,Vincent McEveety,"['Kids & Family', 'Comedy']",92,2.0,Winter,1970.0
+Escape to Witch Mountain,59,87,,1975-03-21,1975.0,G,John Hough,"['Kids & Family', 'Sci-Fi']",97,3.0,Spring,1970.0
+The Apple Dumpling Gang,60,60,,1975-07-01,1975.0,G,Norman Tokar,"['Western', 'Comedy']",100,7.0,Summer,1970.0
+One of Our Dinosaurs Is Missing,68,,,1975-07-09,1975.0,G,Robert Stevenson,"['Kids & Family', 'Adventure']",93,7.0,Summer,1970.0
+The Best of Walt Disney's True-Life Adventures,,,,,,G,James Algar,['Documentary'],88,,,
+Ride a Wild Pony,55,,,1975-12-25,1975.0,G,Don Chaffey,"['Kids & Family', 'Adventure']",99,12.0,Winter,1970.0
+"No Deposit, No Return",66,,,1976-02-05,1976.0,G,Norman Tokar,"['Kids & Family', 'Comedy']",112,2.0,Winter,1970.0
+Treasure of Matecumbe,47,,,,,G,Vincent McEveety,"['Kids & Family', 'Adventure']",117,,,
+Gus,56,,,1976-07-07,1976.0,G,Vincent McEveety,"['Kids & Family', 'Fantasy']",96,7.0,Summer,1970.0
+The Shaggy D.A.,39,50,,1976-12-17,1976.0,G,Robert Stevenson,"['Kids & Family', 'Comedy']",91,12.0,Winter,1970.0
+Freaky Friday,58,88,110200000,2003-08-06,2003.0,PG,Mark Waters,"['Kids & Family', 'Comedy', 'Fantasy']",97,8.0,Summer,2000.0
+The Littlest Horse Thieves,60,,,,,G,Charles Jarrott,"['Kids & Family', 'Adventure']",104,,,
+The Many Adventures of Winnie the Pooh,,,,,,TV-G,John Lounsbery,"['Kids & Family', 'Fantasy', 'Animation']",74,,,
+The Rescuers,,,,,,,Michael King,['Documentary'],99,,,
+Herbie Goes to Monte Carlo,57,60,,1977-06-24,1977.0,G,Vincent McEveety,"['Kids & Family', 'Comedy']",105,6.0,Summer,1970.0
+Pete's Dragon,60,56,,1977-11-03,1977.0,G,Don Chaffey,"['Kids & Family', 'Fantasy']",134,11.0,Fall,1970.0
+Candleshoe,71,,,1977-12-16,1977.0,G,Norman Tokar,"['Kids & Family', 'Comedy']",101,12.0,Winter,1970.0
+Return From Witch Mountain,39,55,,1978-03-10,1978.0,G,John Hough,"['Kids & Family', 'Sci-Fi']",95,3.0,Spring,1970.0
+The Cat From Outer Space,59,67,,1978-06-09,1978.0,G,Norman Tokar,"['Kids & Family', 'Comedy']",103,6.0,Summer,1970.0
+Hot Lead and Cold Feet,64,,,,,G,Robert Butler,"['Western', 'Comedy']",90,,,
+The North Avenue Irregulars,79,88,,,,G,Bruce Bilson,['Comedy'],99,,,
+The Apple Dumpling Gang Rides Again,53,,,1979-06-27,1979.0,G,Vincent McEveety,"['Kids & Family', 'Western', 'Comedy']",88,6.0,Summer,1970.0
+A Spaceman in King Arthur's Court,30,,,,,G,Russ Mayberry,"['Kids & Family', 'Comedy']",93,,,
+Mind's Eye,,,,,,,Mark Steven Grove,"['Sci-Fi', 'Mystery & Thriller']",111,,,
+Midnight Madness,71,,,1980-02-08,1980.0,PG,David Wechter,['Comedy'],110,2.0,Winter,1980.0
+The Watcher in the Woods,50,,,,,TV-PG,Melissa Joan Hart,['Mystery & Thriller'],90,,,
+Herbie Goes Bananas,36,40,,1980-06-25,1980.0,G,Vincent McEveety,"['Kids & Family', 'Comedy']",100,6.0,Summer,1980.0
+The Last Flight of Noah's Ark,40,,,1980-06-25,1980.0,G,Charles Jarrott,"['Kids & Family', 'Adventure']",97,6.0,Summer,1980.0
+Popeye,,,,,,,Dave Fleischer,"['Comedy', 'Animation']",58,,,
+The Devil and Max Devlin,26,17,,,,PG,Steven Hilliard Stern,['Fantasy'],96,,,
+Amy,75,,,,,G,Vincent McEveety,['Drama'],100,,,
+Dragonslayer,63,84,,1981-06-26,1981.0,PG,Matthew Robbins,"['Fantasy', 'Adventure']",109,6.0,Summer,1980.0
+The Fox and the Hound,,,,,,,Ted Berman,['Adventure'],83,,,
+Condorman,65,27,,,,PG,Charles Jarrott,"['Kids & Family', 'Comedy']",90,,,
+Night Crossing,66,,,1982-02-05,1982.0,PG,Delbert Mann,['Drama'],106,2.0,Winter,1980.0
+Tron,69,60,,1982-07-09,1982.0,PG,Steven Lisberger,"['Sci-Fi', 'Action']",96,7.0,Summer,1980.0
+Tex,66,83,,1982-07-30,1982.0,PG,Tim Hunter,['Drama'],103,7.0,Summer,1980.0
+Trenchcoat,33,,,,,PG,Michael Tuchner,['Mystery & Thriller'],91,,,
+Something Wicked This Way Comes,64,63,,,,PG,Jack Clayton,['Horror'],94,,,
+Never Cry Wolf,84,100,,1983-10-14,1983.0,PG,Carroll Ballard,"['Adventure', 'Drama']",106,10.0,Fall,1980.0
+Return to Oz,,,,1964-02-09,1964.0,,F.R. Crawley,"['Musical', 'Animation']",51,2.0,Winter,1960.0
+The Black Cauldron,,,,,,PG,Ted Berman,"['Kids & Family', 'Fantasy', 'Animation']",80,,,
+The Journey of Natty Gann,77,91,8500000,1985-09-27,1985.0,PG,Jeremy Kagan,"['Kids & Family', 'Adventure']",101,9.0,Fall,1980.0
+One Magic Christmas,68,47,12400000,,,G,Phillip Borsos,"['Kids & Family', 'Holiday', 'Fantasy']",88,,,
+The Great Mouse Detective,79,78,37300000,1986-07-02,1986.0,G,John Musker,"['Kids & Family', 'Adventure', 'Animation']",80,7.0,Summer,1980.0
+Flight of the Navigator,76,85,17200000,1986-07-30,1986.0,PG,Randal Kleiser,"['Kids & Family', 'Sci-Fi', 'Adventure']",89,7.0,Summer,1980.0
+Benji the Hunted,61,55,22000000,1987-06-04,1987.0,G,Joe Camp,"['Kids & Family', 'Adventure']",88,6.0,Summer,1980.0
+Return to Snowy River,83,,13700000,,,PG,Geoff Burrowes,['Western'],99,,,
+Oliver & Company,62,52,,1988-11-18,1988.0,G,George Scribner,"['Kids & Family', 'Adventure', 'Animation']",72,11.0,Fall,1980.0
+"Honey, I Shrunk the Kids",54,76,130200000,1989-06-23,1989.0,PG,Joe Johnston,"['Kids & Family', 'Comedy']",90,6.0,Summer,1980.0
+Cheetah,54,43,7900000,1989-08-18,1989.0,G,Jeff Blyth,"['Kids & Family', 'Adventure']",83,8.0,Summer,1980.0
+The Little Mermaid,53,,,,,,Masakazu Higuchi,"['Adventure', 'Fantasy', 'Romance', 'Animation']",50,,,
+"DuckTales, the Movie: Treasure of the Lost Lamp",69,66,18100000,1990-08-03,1990.0,G,Gaëtan Brizzi,"['Kids & Family', 'Comedy', 'Adventure', 'Fantasy', 'Animation']",73,8.0,Summer,1990.0
+The Rescuers Down Under,68,85,,1990-11-16,1990.0,G,Hendel Butoy,"['Kids & Family', 'Adventure', 'Animation']",74,11.0,Fall,1990.0
+White Fang,25,,,,,PG,Lucio Fulci,"['Adventure', 'Western']",97,,,
+Shipwrecked,68,,14900000,,,TV-PG,Nils Gaup,"['Kids & Family', 'Adventure']",91,,,
+Wild Hearts Can't Be Broken,89,73,7300000,1991-05-12,1991.0,G,Steve Miner,"['Kids & Family', 'Drama']",88,5.0,Spring,1990.0
+The Rocketeer,,,,,,,Richard Raaphorst,['Drama'],30,,,
+Beauty and the Beast,90,96,138200,1947-01-01,1947.0,,Jean Cocteau,['Fantasy'],95,1.0,Winter,1940.0
+Newsies,88,39,2700000,1992-04-10,1992.0,PG,Kenny Ortega,"['Kids & Family', 'Musical', 'Drama']",121,4.0,Spring,1990.0
+"Honey, I Blew Up the Kid",24,38,58700000,1992-07-17,1992.0,PG,Randal Kleiser,"['Kids & Family', 'Comedy']",89,7.0,Summer,1990.0
+The Mighty Ducks,65,27,50700000,1992-10-02,1992.0,PG,Stephen Herek,"['Kids & Family', 'Comedy']",101,10.0,Fall,1990.0
+Aladdin,94,57,355600000,2019-05-24,2019.0,PG,Guy Ritchie,"['Kids & Family', 'Musical', 'Comedy', 'Fantasy', 'Adventure', 'Romance']",128,5.0,Spring,2010.0
+The Muppet Christmas Carol,86,78,27400000,1992-12-11,1992.0,G,Brian Henson,"['Kids & Family', 'Holiday', 'Fantasy']",85,12.0,Winter,1990.0
+Homeward Bound: The Incredible Journey,71,87,41600000,1993-02-03,1993.0,G,Duwayne Dunham,"['Kids & Family', 'Adventure']",84,2.0,Winter,1990.0
+A Far Off Place,69,42,12900000,1993-03-12,1993.0,PG,Mikael Salomon,"['Kids & Family', 'Adventure']",105,3.0,Spring,1990.0
+The Adventures of Huck Finn,50,75,23800000,1993-04-02,1993.0,PG,Stephen Sommers,"['Kids & Family', 'Comedy', 'Drama']",108,4.0,Spring,1990.0
+Hocus Pocus,72,42,1700000,1993-07-16,1993.0,PG,Kenny Ortega,"['Kids & Family', 'Holiday', 'Comedy', 'Fantasy']",95,7.0,Summer,1990.0
+Cool Runnings: The Reggae Movie,43,,,,,,Robert Mugge,['Documentary'],105,,,
+The Three Musketeers,,,,1992-06-01,1992.0,,,"['Kids & Family', 'Adventure', 'Romance', 'Animation']",50,6.0,Summer,1990.0
+Iron Will,66,67,20600000,,,PG,Charlie Haid,['Adventure'],108,,,
+Blank Check,35,9,30600000,1994-02-11,1994.0,PG,Rupert Wainwright,"['Kids & Family', 'Comedy']",93,2.0,Winter,1990.0
+D2: The Mighty Ducks,59,20,45600000,,,PG,Sam Weisman,"['Kids & Family', 'Comedy']",106,,,
+White Fang 2: Myth of the White Wolf,46,71,8700000,1994-04-15,1994.0,PG,Ken Olin,"['Kids & Family', 'Adventure']",106,4.0,Spring,1990.0
+The Lion King,93,92,95600000,1994-06-24,1994.0,G,Roger Allers,"['Kids & Family', 'Musical', 'Adventure', 'Animation']",88,6.0,Summer,1990.0
+Angels in the Outfield,50,31,50200000,1994-07-10,1994.0,PG,William Dear,"['Kids & Family', 'Comedy']",102,7.0,Summer,1990.0
+Squanto: A Warrior's Tale,55,60,3300000,,,PG,Xavier Koller,"['Adventure', 'Action', 'Drama']",101,,,
+The Santa Clause,66,73,145500000,1994-11-11,1994.0,PG,John Pasquin,"['Kids & Family', 'Holiday', 'Comedy']",97,11.0,Fall,1990.0
+Rudyard Kipling's The Jungle Book,56,80,43200000,,,PG,Stephen Sommers,"['Kids & Family', 'Adventure', 'Romance']",110,,,
+Heavyweights,77,50,17700000,1995-02-17,1995.0,PG,Steven Brill,"['Kids & Family', 'Comedy']",97,2.0,Winter,1990.0
+Man of the House,46,9,19100000,2005-02-25,2005.0,PG-13,Stephen Herek,['Comedy'],100,2.0,Winter,2000.0
+Tall Tale: The Unbelievable Adventures of Pecos Bill,53,48,8200000,1995-03-24,1995.0,PG,Jeremiah S. Chechik,"['Kids & Family', 'Fantasy']",96,3.0,Spring,1990.0
+A Goofy Movie,71,64,35300000,1995-04-07,1995.0,G,Kevin Lima,"['Kids & Family', 'Comedy', 'Animation']",78,4.0,Spring,1990.0
+Pocahontas,64,58,141600000,1995-06-15,1995.0,G,Mike Gabriel,"['Kids & Family', 'Adventure', 'Animation']",87,6.0,Summer,1990.0
+Operation Dumbo Drop,29,26,24700000,1995-07-28,1995.0,PG,Simon Wincer,"['Kids & Family', 'Comedy']",107,7.0,Summer,1990.0
+A Kid in King Arthur's Court,27,5,13400000,1995-08-11,1995.0,PG,Michael Gottlieb,"['Kids & Family', 'Fantasy']",89,8.0,Summer,1990.0
+The Big Green,46,0,17700000,1995-09-29,1995.0,PG,Holly Goldberg Sloan,"['Kids & Family', 'Comedy']",99,9.0,Fall,1990.0
+Frank and Ollie,86,88,31800,,,PG,Theodore Thomas,['Documentary'],89,,,
+Toy Story,92,100,6700000,1995-11-22,1995.0,G,John Lasseter,"['Kids & Family', 'Comedy', 'Adventure', 'Fantasy', 'Animation']",81,11.0,Fall,1990.0
+Tom and Huck,42,25,23900000,1995-12-22,1995.0,PG,Peter Hewitt,"['Kids & Family', 'Adventure']",92,12.0,Winter,1990.0
+Muppet Treasure Island,77,71,34300000,1996-02-16,1996.0,G,Brian Henson,"['Kids & Family', 'Adventure']",99,2.0,Winter,1990.0
+Homeward Bound II: Lost in San Francisco,44,56,32800000,,,G,David R. Ellis,"['Kids & Family', 'Adventure']",88,,,
+James and the Giant Peach,66,91,28900000,1996-04-12,1996.0,PG,Henry Selick,"['Kids & Family', 'Fantasy', 'Animation']",80,4.0,Spring,1990.0
+The Hunchback of Notre Dame,71,80,100100000,1996-06-21,1996.0,G,Gary Trousdale,"['Kids & Family', 'Drama', 'Animation']",86,6.0,Summer,1990.0
+First Kid,32,21,26500000,1996-08-30,1996.0,PG,David M. Evans,['Comedy'],101,8.0,Summer,1990.0
+D3: The Mighty Ducks,45,20,23000000,1996-10-04,1996.0,PG,Robert Lieberman,"['Kids & Family', 'Comedy']",104,10.0,Fall,1990.0
+101 Dalmatians,76,98,91300000,,,G,Wolfgang Reitherman,"['Kids & Family', 'Comedy', 'Adventure', 'Animation']",79,,,
+That Darn Cat,24,13,18300000,1997-02-14,1997.0,PG,Bob Spiers,"['Kids & Family', 'Comedy']",89,2.0,Winter,1990.0
+Jungle 2 Jungle,33,20,59900000,1997-03-07,1997.0,PG,John Pasquin,"['Kids & Family', 'Comedy']",105,3.0,Spring,1990.0
+"Honey, We Shrunk Ourselves",27,25,,,,PG,Dean Cundy,"['Kids & Family', 'Comedy']",76,,,
+Hercules,76,83,99100000,1997-06-14,1997.0,G,Ron Clements,"['Kids & Family', 'Adventure', 'Animation']",92,6.0,Summer,1990.0
+George of the Jungle,42,56,105300000,,,PG,Sam Weisman,"['Kids & Family', 'Romance', 'Comedy']",91,,,
+Air Bud,38,50,24600000,1997-08-01,1997.0,PG,Charles Martin Smith,"['Kids & Family', 'Comedy', 'Drama']",97,8.0,Summer,1990.0
+Pooh's Grand Adventure: The Search for Christopher Robin,71,38,,,,,Karl Geurs,"['Kids & Family', 'Adventure', 'Animation']",70,,,
+Rocketman,,,,,,,Toby Brusseau,"['Documentary', 'Adventure', 'Comedy']",85,,,
+Flubber,33,24,93000000,1997-11-26,1997.0,PG,Les Mayfield,"['Kids & Family', 'Comedy']",93,11.0,Fall,1990.0
+Mr. Magoo,24,9,21400000,,,PG,Stanley Tong,"['Kids & Family', 'Comedy']",87,,,
+Meet the Deedles,37,11,4400000,1998-03-27,1998.0,PG,Steve Boyum,"['Kids & Family', 'Comedy']",92,3.0,Spring,1990.0
+Mulan,85,91,120600000,1998-06-19,1998.0,G,Barry Cook,"['Kids & Family', 'Musical', 'Animation']",87,6.0,Summer,1990.0
+The Jungle Book: Mowgli's Story,31,,,1998-09-29,1998.0,G,Nick Marck,"['Kids & Family', 'Adventure']",79,9.0,Fall,1990.0
+I'll Be Home for Christmas,,,,,,,Ella Lemhagen,"['Holiday', 'Drama']",115,,,
+A Bug's Life,73,92,162800000,1998-11-14,1998.0,G,John Lasseter,"['Kids & Family', 'Comedy', 'Adventure', 'Animation']",96,11.0,Fall,1990.0
+Mighty Joe Young,41,55,50600000,1998-12-25,1998.0,PG,Ron Underwood,"['Kids & Family', 'Adventure']",114,12.0,Winter,1990.0
+My Favorite Martian,31,13,36800000,1999-02-12,1999.0,PG,Donald Petrie,['Comedy'],93,2.0,Winter,1990.0
+Doug's 1st Movie,28,26,19400000,1999-03-19,1999.0,G,Maurice Joyce,"['Kids & Family', 'Comedy', 'Animation']",77,3.0,Spring,1990.0
+Endurance,,70,,,,,Elizabeth Chai Vasarhelyi,"['Documentary', 'History']",100,,,
+Tarzan,75,90,,1999-06-18,1999.0,G,Chris Buck,"['Kids & Family', 'Musical', 'Drama', 'Adventure', 'Animation']",88,6.0,Summer,1990.0
+Inspector Gadget,18,20,97400000,1999-07-23,1999.0,PG,David Kellogg,"['Kids & Family', 'Comedy']",77,7.0,Summer,1990.0
+The Straight Story,91,95,6200000,1999-05-21,1999.0,G,David Lynch,['Drama'],111,5.0,Spring,1990.0
+Toy Story 2,87,100,245900000,1999-11-24,1999.0,G,Ash Brannon,"['Kids & Family', 'Comedy', 'Adventure', 'Fantasy', 'Animation']",92,11.0,Fall,1990.0
+Fantasia 2000,75,80,60500000,2000-01-01,2000.0,G,James Algar,"['Kids & Family', 'Musical', 'Music', 'Animation']",75,1.0,Winter,2000.0
+The Tigger Movie,62,64,,2000-02-11,2000.0,G,Jun Falkenstein,"['Kids & Family', 'Adventure', 'Animation']",77,2.0,Winter,2000.0
+Whispers: An Elephant's Tale,38,,,2000-10-13,2000.0,G,Dereck Joubert,"['Kids & Family', 'Drama']",72,10.0,Fall,2000.0
+Dinosaur,,,,,,PG,Eric Leighton,"['Kids & Family', 'Adventure']",82,,,
+Disney's The Kid,49,49,69700000,2000-07-07,2000.0,PG,Jon Turteltaub,"['Kids & Family', 'Comedy']",104,7.0,Summer,2000.0
+Buzz Lightyear of Star Command: The Adventure Begins,52,,,,,,Tad Stones,"['Kids & Family', 'Adventure', 'Animation']",70,,,
+The Little Mermaid II: Return to the Sea,45,20,,,,G,Jim Kammerud,"['Kids & Family', 'Fantasy', 'Animation']",75,,,
+Remember the Titans,93,72,115800000,2000-09-29,2000.0,PG,Boaz Yakin,['Drama'],113,9.0,Fall,2000.0
+102 Dalmatians,32,30,66900000,2000-11-22,2000.0,G,Kevin Lima,"['Kids & Family', 'Adventure']",100,11.0,Fall,2000.0
+The Emperor's New Groove,84,86,89600000,2000-12-15,2000.0,G,Mark Dindal,"['Kids & Family', 'Comedy', 'Animation']",79,12.0,Winter,2000.0
+Recess: School's Out,56,60,36700000,2001-02-16,2001.0,G,Chuck Sheetz,"['Kids & Family', 'Comedy', 'Animation']",82,2.0,Winter,2000.0
+Lady and the Tramp II: Scamp's Adventure,49,45,,,,G,Darrell Rooney,"['Kids & Family', 'Adventure', 'Animation']",69,,,
+Atlantis: The Lost Empire,55,48,,2001-06-15,2001.0,PG,Gary Trousdale,"['Kids & Family', 'Fantasy', 'Sci-Fi', 'Action', 'Adventure', 'Animation']",95,6.0,Summer,2000.0
+The Princess Diaries,68,49,108200000,2001-08-03,2001.0,G,Garry Marshall,"['Kids & Family', 'Comedy']",115,8.0,Summer,2000.0
+Max Keeble's Big Move,38,27,17300000,2001-10-05,2001.0,PG,Tim Hill,"['Kids & Family', 'Comedy']",86,10.0,Fall,2000.0
+"Monsters, Inc.",90,96,494000,2001-11-02,2001.0,G,Pete Docter,"['Kids & Family', 'Comedy', 'Fantasy', 'Adventure', 'Animation']",92,11.0,Fall,2000.0
+Mickey's Magical Christmas: Snowed In at the House of Mouse,62,,,,,TV-G,Tony Craig,"['Kids & Family', 'Holiday', 'Adventure', 'Comedy', 'Animation']",62,,,
+Snow Dogs,40,26,81200000,2002-01-18,2002.0,PG,Brian Levant,"['Kids & Family', 'Comedy', 'Adventure']",99,1.0,Winter,2000.0
+Return to Never Land,39,46,48400000,2002-02-15,2002.0,G,Robin Budd,"['Kids & Family', 'Fantasy', 'Adventure', 'Animation']",72,2.0,Winter,2000.0
+Cinderella II: Dreams Come True,32,13,,2002-02-26,2002.0,G,John Kafka,"['Kids & Family', 'Fantasy', 'Animation']",73,2.0,Winter,2000.0
+The Hunchback of Notre Dame II,27,22,,,,G,Bradley Raymond,"['Kids & Family', 'Adventure', 'Animation']",68,,,
+The Rookie,70,84,,2002-03-29,2002.0,G,John Lee Hancock,['Drama'],127,3.0,Spring,2000.0
+Lilo & Stitch,78,86,,2002-06-21,2002.0,PG,Dean DeBlois,"['Kids & Family', 'Comedy', 'Animation']",85,6.0,Summer,2000.0
+The Country Bears,34,29,17000000,2002-07-26,2002.0,G,Peter Hastings,"['Kids & Family', 'Comedy']",88,7.0,Summer,2000.0
+Spirited Away,96,96,10000000,2002-09-20,2002.0,PG,Hayao Miyazaki,"['Fantasy', 'Adventure', 'Animation']",125,9.0,Fall,2000.0
+Tuck Everlasting,70,61,19200000,2002-10-11,2002.0,PG,Jay Russell,"['Kids & Family', 'Fantasy', 'Adventure', 'Drama']",90,10.0,Fall,2000.0
+The Santa Clause 2,43,56,139200000,2002-11-01,2002.0,G,Michael Lembeck,"['Kids & Family', 'Holiday', 'Comedy']",104,11.0,Fall,2000.0
+Winnie the Pooh: A Very Merry Pooh Year,71,,,,,G,Jamie Mitchell,"['Kids & Family', 'Holiday', 'Fantasy', 'Animation']",65,,,
+Treasure Planet,73,68,,2002-11-27,2002.0,PG,John Musker,"['Kids & Family', 'Adventure', 'Sci-Fi', 'Animation']",95,11.0,Fall,2000.0
+101 Dalmatians II: Patch's London Adventure,41,67,,,,G,Jim Kammerud,"['Kids & Family', 'Adventure', 'Animation']",73,,,
+The Jungle Book,,,,,,,Meghan Counts,"['Adventure', 'Drama']",87,,,
+Inspector Gadget 2,23,40,,,,G,Alex Zamm,"['Kids & Family', 'Comedy']",88,,,
+Piglet's Big Movie,64,71,,2003-03-21,2003.0,G,Francis Glebas,"['Kids & Family', 'Adventure', 'Animation']",75,3.0,Spring,2000.0
+Ghosts of the Abyss,67,80,17000000,2003-03-31,2003.0,G,James Cameron,['Documentary'],60,3.0,Spring,2000.0
+Holes,76,78,67300000,2003-04-18,2003.0,PG,Andrew Davis,"['Kids & Family', 'Adventure']",118,4.0,Spring,2000.0
+The Lizzie McGuire Movie,49,40,42700000,2003-05-02,2003.0,PG,Jim Fall,"['Kids & Family', 'Comedy']",93,5.0,Spring,2000.0
+Finding Nemo,86,99,,2003-05-30,2003.0,G,Andrew Stanton,"['Kids & Family', 'Comedy', 'Adventure', 'Animation']",100,5.0,Spring,2000.0
+Pirates of the Caribbean: The Curse of the Black Pearl,86,79,305400000,2003-07-09,2003.0,PG-13,Gore Verbinski,"['Adventure', 'Action', 'Fantasy']",143,7.0,Summer,2000.0
+Stitch! The Movie,50,20,,,,G,Tony Craig,"['Kids & Family', 'Comedy', 'Animation']",64,,,
+George of the Jungle 2,20,17,,,,PG,David Grossman,"['Kids & Family', 'Comedy']",86,,,
+Brother Bear,66,38,85300000,2003-11-01,2003.0,G,Aaron Blaise,"['Kids & Family', 'Adventure', 'Animation']",85,11.0,Fall,2000.0
+The Haunted Mansion,31,14,75800000,2003-11-26,2003.0,PG,Rob Minkoff,"['Kids & Family', 'Comedy', 'Fantasy']",88,11.0,Fall,2000.0
+Young Black Stallion,66,44,6800000,,,G,Simon Wincer,"['Kids & Family', 'Adventure', 'Drama']",45,,,
+Teacher's Pet,,,,,,,Alana Avallone,"['Mystery & Thriller', 'Animation']",,,,
+Miracle,90,80,64400000,2004-02-02,2004.0,PG,Gavin O'Connor,['Drama'],135,2.0,Winter,2000.0
+The Lion King 1 1/2,62,76,,2004-02-10,2004.0,G,Bradley Raymond,"['Kids & Family', 'Adventure', 'Animation']",76,2.0,Winter,2000.0
+Confessions of a Teenage Drama Queen,35,13,29300000,2004-02-17,2004.0,PG,Sara Sugarman,"['Kids & Family', 'Comedy']",89,2.0,Winter,2000.0
+Winnie the Pooh: Springtime With Roo,64,,,,,G,Saul Blinkoff,"['Kids & Family', 'Holiday', 'Comedy', 'Animation']",65,,,
+Home on the Range,30,51,,2004-03-21,2004.0,PG,Will Finn,"['Kids & Family', 'Comedy', 'Animation']",75,3.0,Spring,2000.0
+Sacred Planet,56,58,,,,G,Jon Long,['Documentary'],46,,,
+Around the World in 80 Days,34,33,24000000,2004-06-16,2004.0,PG,Frank Coraci,"['Adventure', 'Comedy']",119,6.0,Summer,2000.0
+America's Heart and Soul,46,49,314000,2004-05-01,2004.0,PG,Louie Schwartzberg,['Documentary'],88,5.0,Spring,2000.0
+The Princess Diaries 2: Royal Engagement,59,25,95100000,2004-08-11,2004.0,G,Garry Marshall,"['Kids & Family', 'Romance', 'Comedy']",113,8.0,Summer,2000.0
+The Three Musketeers,53,42,,,,G,Donovan Cook,"['Kids & Family', 'Adventure', 'Animation']",68,,,
+The Incredibles,75,97,261400000,2004-11-05,2004.0,PG,Brad Bird,"['Kids & Family', 'Comedy', 'Adventure', 'Animation']",115,11.0,Fall,2000.0
+Mickey's Twice Upon a Christmas,61,,,,,G,Matthew O'Callaghan,"['Kids & Family', 'Holiday', 'Fantasy', 'Animation']",68,,,
+National Treasure,76,47,173000000,2004-11-19,2004.0,PG,Jon Turteltaub,"['Adventure', 'Action']",130,11.0,Fall,2000.0
+Aliens of the Deep,49,84,9000000,,,G,James Cameron,['Documentary'],47,,,
+Mulan II,43,0,,,,G,Darrell Rooney,"['Kids & Family', 'Adventure', 'Animation']",79,,,
+Pooh's Heffalump Movie,68,80,,2005-02-11,2005.0,G,Frank Nissen,"['Kids & Family', 'Adventure', 'Animation']",68,2.0,Winter,2000.0
+The Pacifier,58,21,113000000,2005-03-04,2005.0,PG,Adam Shankman,"['Kids & Family', 'Comedy']",95,3.0,Spring,2000.0
+Ice Princess,58,52,24400000,2005-03-18,2005.0,G,Tim Fywell,"['Kids & Family', 'Comedy', 'Drama']",98,3.0,Spring,2000.0
+Tarzan II,37,33,,,,G,Brian Smith,"['Kids & Family', 'Adventure', 'Animation']",72,,,
+Herbie: Fully Loaded,39,40,66000000,2005-06-22,2005.0,G,Angela Robinson,"['Kids & Family', 'Comedy']",100,6.0,Summer,2000.0
+Howl's Moving Castle,93,88,4700000,2005-06-10,2005.0,PG,Hayao Miyazaki,"['Fantasy', 'Anime']",119,6.0,Summer,2000.0
+Sky High,45,,,,,,Lynn F. Reynolds,['Western'],72,,,
+Valiant,29,32,19500000,2005-08-19,2005.0,G,Gary Chapman,"['Kids & Family', 'Comedy', 'Adventure', 'Animation']",75,8.0,Summer,2000.0
+Lilo & Stitch 2: Stitch Has a Glitch,56,42,,,,PG,Michael LaBash,"['Kids & Family', 'Comedy', 'Animation']",68,,,
+Pooh's Heffalump Halloween Movie,,,,,,G,,"['Kids & Family', 'Holiday', 'Adventure', 'Animation']",67,,,
+The Greatest Game Ever Played,82,62,15300000,2005-09-30,2005.0,PG,Bill Paxton,['Drama'],115,9.0,Fall,2000.0
+Chicken Little,47,36,,2005-11-04,2005.0,G,Mark Dindal,"['Kids & Family', 'Comedy', 'Animation']",81,11.0,Fall,2000.0
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",61,76,291700000,2005-12-09,2005.0,PG,Andrew Adamson,"['Kids & Family', 'Fantasy', 'Adventure']",140,12.0,Winter,2000.0
+Kronk's New Groove,45,0,,,,G,Saul Blinkoff,"['Kids & Family', 'Comedy', 'Animation']",72,,,
+Glory Road,81,55,42600000,2006-01-13,2006.0,PG,James Gartner,['Drama'],117,1.0,Winter,2000.0
+Roving Mars,77,70,10400000,2006-01-27,2006.0,G,George Butler,['Documentary'],40,1.0,Winter,2000.0
+Bambi II,60,44,,,,G,Brian Pimental,"['Kids & Family', 'Drama', 'Animation']",72,,,
+Eight Below,78,73,81600000,2006-02-17,2006.0,PG,Frank Marshall,"['Kids & Family', 'Adventure', 'Drama']",120,2.0,Winter,2000.0
+The Wild,36,18,,2006-04-14,2006.0,G,"Steve ""Spaz"" Williams","['Kids & Family', 'Adventure', 'Animation']",85,4.0,Spring,2000.0
+Cars,80,74,,2006-06-09,2006.0,G,John Lasseter,"['Kids & Family', 'Comedy', 'Adventure', 'Animation']",117,6.0,Summer,2000.0
+Leroy & Stitch,53,43,,,,G,Tony Craig,"['Kids & Family', 'Adventure', 'Animation']",72,,,
+Pirates of the Caribbean: Dead Man's Chest,72,53,423300000,2006-07-07,2006.0,PG-13,Gore Verbinski,"['Adventure', 'Action', 'Fantasy']",151,7.0,Summer,2000.0
+Invincible,73,71,57800000,2006-08-25,2006.0,PG,Ericson Core,"['Biography', 'Drama']",104,8.0,Summer,2000.0
+Brother Bear 2,55,50,,,,G,Ben Gluck,"['Kids & Family', 'Adventure', 'Comedy', 'Animation']",74,,,
+Tim Burton's The Nightmare Before Christmas,92,95,6100000,1993-10-29,1993.0,PG,Henry Selick,"['Kids & Family', 'Holiday', 'Fantasy', 'Comedy', 'Animation']",75,10.0,Fall,1990.0
+The Santa Clause 3: The Escape Clause,39,17,84500000,2006-11-03,2006.0,G,Michael Lembeck,"['Kids & Family', 'Holiday', 'Comedy']",92,11.0,Fall,2000.0
+The Fox and the Hound 2,44,20,,,,G,Jim Kammerud,"['Kids & Family', 'Comedy', 'Adventure', 'Animation']",69,,,
+Cinderella III: A Twist in Time,62,75,,,,G,Frank Nissen,"['Kids & Family', 'Fantasy', 'Animation']",70,,,
+Bridge to Terabithia,70,85,82200000,2007-02-16,2007.0,PG,Gabor Csupo,"['Kids & Family', 'Fantasy', 'Drama']",96,2.0,Winter,2000.0
+Meet the Robinsons,74,68,,2007-03-30,2007.0,G,Stephen J. Anderson,"['Kids & Family', 'Adventure', 'Comedy', 'Animation']",94,3.0,Spring,2000.0
+Pirates of the Caribbean: At World's End,72,43,309400000,2007-05-25,2007.0,PG-13,Gore Verbinski,"['Adventure', 'Action', 'Fantasy']",168,5.0,Spring,2000.0
+Ratatouille,87,96,206400000,2007-06-29,2007.0,G,Brad Bird,"['Kids & Family', 'Comedy', 'Animation']",111,6.0,Summer,2000.0
+The Secret of the Magic Gourd,42,,,,,G,Frankie Chung,"['Kids & Family', 'Drama']",85,,,
+Underdog,42,15,43800000,2007-08-03,2007.0,PG,Frederik Du Chau,"['Kids & Family', 'Adventure', 'Comedy']",80,8.0,Summer,2000.0
+The Pixar Story,92,86,,,,G,Leslie Iwerks,['Documentary'],87,,,
+The Game Plan,69,28,90600000,2007-09-28,2007.0,PG,Andy Fickman,"['Kids & Family', 'Comedy']",110,9.0,Fall,2000.0
+Enchanted,80,93,127700000,2007-11-21,2007.0,PG,Kevin Lima,"['Kids & Family', 'Fantasy', 'Romance', 'Comedy', 'Musical']",108,11.0,Fall,2000.0
+National Treasure: Book of Secrets,67,35,220000000,2007-12-21,2007.0,PG,Jon Turteltaub,"['Action', 'Adventure']",130,12.0,Winter,2000.0
+Hannah Montana and Miley Cyrus: Best of Both Worlds Concert,70,70,65300000,,,G,Bruce Hendricks,"['Kids & Family', 'Documentary', 'Music']",82,,,
+Snow Buddies,63,,,,,G,Robert Vince,"['Kids & Family', 'Comedy']",88,,,
+College Road Trip,50,13,45600000,2008-03-07,2008.0,G,Roger Kumble,"['Kids & Family', 'Comedy']",83,3.0,Spring,2000.0
+The Chronicles of Narnia: Prince Caspian,73,66,141600000,2008-05-16,2008.0,PG,Andrew Adamson,"['Kids & Family', 'Fantasy', 'Adventure']",150,5.0,Spring,2000.0
+WALL-E,90,95,,2008-06-27,2008.0,G,Andrew Stanton,"['Kids & Family', 'Adventure', 'Sci-Fi', 'Comedy', 'Animation']",97,6.0,Summer,2000.0
+High School Musical: El desafío,46,,,,,,César Rodrigues,['Musical'],90,,,
+The Little Mermaid: Ariel's Beginning,57,33,,,,G,Peggy Holmes,"['Kids & Family', 'Fantasy', 'Animation']",77,,,
+Beverly Hills Chihuahua,51,41,94500000,2008-10-03,2008.0,PG,Raja Gosnell,"['Kids & Family', 'Comedy', 'Adventure']",91,10.0,Fall,2000.0
+Morning Light,50,29,275100,2008-10-17,2008.0,PG,Mark Monroe,['Documentary'],100,10.0,Fall,2000.0
+High School Musical 3: Senior Year,72,64,90600000,2008-10-24,2008.0,G,Kenny Ortega,"['Kids & Family', 'Musical', 'Comedy']",112,10.0,Fall,2000.0
+Roadside Romeo,50,50,55200,2008-10-24,2008.0,,Jugal Hansraj,"['Comedy', 'Animation']",118,10.0,Fall,2000.0
+Tinker Bell,73,90,,,,G,Bradley Raymond,"['Kids & Family', 'Fantasy', 'Animation']",74,,,
+Bolt,74,90,114100000,2008-11-21,2008.0,PG,Chris Williams,"['Kids & Family', 'Comedy', 'Adventure', 'Animation']",96,11.0,Fall,2000.0
+Bedtime Stories,55,27,110000000,2008-12-25,2008.0,PG,Adam Shankman,"['Kids & Family', 'Comedy', 'Fantasy', 'Adventure']",99,12.0,Winter,2000.0
+Space Buddies,52,,,,,G,Robert Vince,"['Kids & Family', 'Comedy', 'Adventure']",84,,,
+Jonas Brothers: The Concert Experience,79,21,19200000,,,G,Bruce Hendricks,"['Kids & Family', 'Documentary', 'Music']",86,,,
+Race to Witch Mountain,44,41,67100000,2009-03-13,2009.0,PG,Andy Fickman,"['Kids & Family', 'Adventure', 'Action', 'Sci-Fi']",99,3.0,Spring,2000.0
+Hannah Montana: The Movie,67,43,79600000,2009-04-10,2009.0,G,Peter Chelsom,"['Kids & Family', 'Musical', 'Comedy']",92,4.0,Spring,2000.0
+Earth,,,,,,,Marco De Angelis,"['Sci-Fi', 'Fantasy']",63,,,
+Touch of the Panda,65,,,,,G,Yu Zhong,"['Kids & Family', 'Drama']",88,,,
+The Boys: The Sherman Brothers' Story,87,91,54900,2009-05-22,2009.0,PG,Gregory V. Sherman,['Documentary'],101,5.0,Spring,2000.0
+Up,90,98,,2009-05-29,2009.0,PG,Pete Docter,"['Kids & Family', 'Comedy', 'Adventure', 'Animation']",96,5.0,Spring,2000.0
+Lilly the Witch: The Dragon and the Magic Book,27,,,,,,Stefan Ruzowitzky,"['Kids & Family', 'Fantasy']",89,,,
+G-Force,40,22,119400000,2009-07-24,2009.0,PG,Hoyt H. Yeatman Jr.,"['Kids & Family', 'Action', 'Adventure', 'Comedy']",88,7.0,Summer,2000.0
+Ponyo,84,91,15100000,2009-08-14,2009.0,G,Hayao Miyazaki,"['Adventure', 'Fantasy', 'Anime']",100,8.0,Summer,2000.0
+Walt & El Grupo,44,57,19900,2009-09-09,2009.0,PG,Theodore Thomas,['Documentary'],106,9.0,Fall,2000.0
+Tinker Bell and the Lost Treasure,73,100,,,,G,Klay Hall,"['Kids & Family', 'Fantasy', 'Adventure', 'Animation']",76,,,
+The Book of Masters,,,,,,,Vadim Sokolovsky,['Fantasy'],91,,,
+Disney's A Christmas Carol,58,52,137900000,2009-11-06,2009.0,PG,Robert Zemeckis,"['Kids & Family', 'Holiday', 'Fantasy', 'Drama', 'Animation']",95,11.0,Fall,2000.0
+Santa Buddies,56,20,,,,G,Robert Vince,"['Kids & Family', 'Holiday', 'Comedy', 'Adventure']",88,,,
+Old Dogs,44,5,49500000,2009-11-25,2009.0,PG,Walt Becker,"['Kids & Family', 'Comedy']",88,11.0,Fall,2000.0
+The Princess and the Frog,,,,,,G,Ron Clements,"['Kids & Family', 'Comedy', 'Adventure', 'Musical', 'Fantasy', 'Animation']",95,,,
+High School Musical: El desafío,46,,,,,,César Rodrigues,['Musical'],90,,,
+Waking Sleeping Beauty,80,71,80200,2010-03-26,2010.0,PG,Don Hahn,['Documentary'],86,3.0,Spring,2010.0
+Oceans,75,81,19400000,2010-04-22,2010.0,G,Jacques Perrin,['Documentary'],102,4.0,Spring,2010.0
+Prince of Persia: The Sands of Time,58,37,90800000,2010-05-28,2010.0,PG-13,Mike Newell,"['Adventure', 'Action', 'Fantasy']",116,5.0,Spring,2010.0
+Toy Story 3,90,98,415000000,2010-06-18,2010.0,G,Lee Unkrich,"['Kids & Family', 'Comedy', 'Adventure', 'Fantasy', 'Animation']",102,6.0,Summer,2010.0
+The Sorcerer's Apprentice,,,,,,,Peter Sander,"['Drama', 'Action', 'Animation']",25,,,
+Tales From Earthsea,46,37,,2010-08-13,2010.0,PG-13,Goro Miyazaki,"['Adventure', 'Fantasy', 'Anime']",115,8.0,Summer,2010.0
+The Crimson Wing: Mystery of the Flamingos,75,75,,,,G,Matthew Aeberhard,['Documentary'],77,,,
+Tinker Bell and the Great Fairy Rescue,76,70,,,,G,Bradley Raymond,"['Kids & Family', 'Fantasy', 'Adventure', 'Animation']",73,,,
+Fuchsia the Mini-Witch,64,,,,,PG,Johan Nijenhuis,"['Kids & Family', 'Adventure', 'Fantasy']",88,,,
+Secretariat,76,64,59700000,2010-10-08,2010.0,PG,Randall Wallace,"['Drama', 'Biography']",123,10.0,Fall,2010.0
+Do Dooni Chaar,75,,,,,PG,Habib Faisal,"['Comedy', 'Drama']",112,,,
+The Search for Santa Paws,61,,,,,G,Robert Vince,"['Kids & Family', 'Holiday', 'Comedy', 'Adventure']",96,,,
+Tangled,87,89,200800000,2010-11-24,2010.0,PG,Nathan Greno,"['Kids & Family', 'Musical', 'Comedy', 'Fantasy', 'Adventure', 'Animation']",101,11.0,Fall,2010.0
+Tron: Legacy,64,51,172100000,2010-12-17,2010.0,PG,Joseph Kosinski,"['Sci-Fi', 'Action']",125,12.0,Winter,2010.0
+Anaganaga O Dheerudu,57,,,,,PG-13,Prakesh Kovelamudi,"['Adventure', 'Fantasy']",133,,,
+Beverly Hills Chihuahua 2,49,,,,,G,Alex Zamm,"['Kids & Family', 'Comedy']",84,,,
+Lilly the Witch: The Journey to Mandolan,,,,,,,Harald Sicheritz,"['Kids & Family', 'Fantasy', 'Comedy']",87,,,
+Mars Needs Moms,40,34,21400000,2011-03-11,2011.0,PG,Simon Wells,"['Kids & Family', 'Comedy', 'Sci-Fi', 'Adventure', 'Animation']",88,3.0,Spring,2010.0
+Zokkomon,50,,,2011-04-22,2011.0,PG,Satyajit Bhatkal,"['Action', 'Adventure']",109,4.0,Spring,2010.0
+African Cats,77,73,15400000,2011-04-22,2011.0,G,Keith Scholey,['Documentary'],90,4.0,Spring,2010.0
+Prom,39,36,10100000,2011-04-29,2011.0,PG,Joe Nussbaum,"['Comedy', 'Drama']",103,4.0,Spring,2010.0
+Pirates of the Caribbean: On Stranger Tides,54,32,241100000,2011-05-20,2011.0,PG-13,Rob Marshall,"['Adventure', 'Action', 'Fantasy']",136,5.0,Spring,2010.0
+Cars 2,50,40,,2011-06-24,2011.0,G,John Lasseter,"['Kids & Family', 'Comedy', 'Adventure', 'Animation']",107,6.0,Summer,2010.0
+Winnie the Pooh,,,,,,,,"['Drama', 'Animation']",45,,,
+Spooky Buddies,52,,,,,G,Robert Vince,"['Kids & Family', 'Adventure']",88,,,
+The Muppets,80,95,88600000,2011-11-23,2011.0,PG,James Bobin,"['Kids & Family', 'Comedy']",98,11.0,Fall,2010.0
+Treasure Buddies,53,,,,,G,Robert Vince,"['Kids & Family', 'Comedy', 'Adventure']",92,,,
+The Secret World of Arrietty,86,94,,2012-02-17,2012.0,G,Hiromasa Yonebayashi,"['Kids & Family', 'Fantasy', 'Adventure', 'Anime']",95,2.0,Winter,2010.0
+John Carter,60,52,73100000,2012-03-09,2012.0,PG-13,Andrew Stanton,"['Sci-Fi', 'Action', 'Adventure']",132,3.0,Spring,2010.0
+Chimpanzee,75,74,29000000,2012-04-20,2012.0,G,Alastair Fothergill,['Documentary'],78,4.0,Spring,2010.0
+Arjun: The Warrior Prince,64,67,7100,2012-05-25,2012.0,,Arnab Chaudhuri,"['Kids & Family', 'Adventure', 'History', 'Drama', 'Animation']",96,5.0,Spring,2010.0
+Brave,75,78,,2012-06-22,2012.0,PG,Mark Andrews,"['Kids & Family', 'Adventure', 'Comedy', 'Animation']",93,6.0,Summer,2010.0
+The Odd Life of Timothy Green,67,36,51900000,2012-08-15,2012.0,PG,Peter Hedges,"['Kids & Family', 'Comedy', 'Drama', 'Fantasy']",104,8.0,Summer,2010.0
+Beverly Hills Chihuahua 3: ¡Viva la Fiesta!,57,,,,,G,Lev Spiro,"['Kids & Family', 'Comedy']",90,,,
+Frankenweenie,70,87,,2012-10-05,2012.0,PG,Tim Burton,"['Kids & Family', 'Fantasy', 'Animation']",87,10.0,Fall,2010.0
+Secret of the Wings,78,62,,,,G,Peggy Holmes,"['Kids & Family', 'Fantasy', 'Adventure', 'Animation']",71,,,
+Wreck-It Ralph,86,87,189400000,2012-11-02,2012.0,PG,Rich Moore,"['Kids & Family', 'Comedy', 'Adventure', 'Animation']",101,11.0,Fall,2010.0
+Oz the Great and Powerful,56,56,234900000,2013-03-08,2013.0,PG,Sam Raimi,"['Kids & Family', 'Fantasy', 'Adventure']",130,3.0,Spring,2010.0
+Hidden Beauty: A Love Story That Feeds the Earth,79,,,,,G,Louie Schwartzberg,['Documentary'],77,,,
+Monsters University,81,80,268500000,2013-06-21,2013.0,G,Dan Scanlon,"['Kids & Family', 'Comedy', 'Fantasy', 'Adventure', 'Animation']",102,6.0,Summer,2010.0
+The Lone Ranger,51,31,89300000,2013-07-03,2013.0,PG-13,Gore Verbinski,"['Western', 'Action', 'Adventure']",149,7.0,Summer,2010.0
+Planes,49,26,90300000,2013-08-09,2013.0,PG,Klay Hall,"['Kids & Family', 'Comedy', 'Adventure', 'Animation']",92,8.0,Summer,2010.0
+Super Buddies,55,,,,,G,Robert Vince,"['Kids & Family', 'Comedy', 'Adventure']",81,,,
+Frozen,62,50,5700,,,,Wang Xiaoshuai,['Drama'],99,,,
+Saving Mr. Banks,84,79,83300000,2013-12-20,2013.0,PG-13,John Lee Hancock,"['Drama', 'Comedy']",125,12.0,Winter,2010.0
+Muppets Most Wanted,59,80,51200000,2014-03-21,2014.0,PG,James Bobin,"['Kids & Family', 'Comedy', 'Adventure']",106,3.0,Spring,2010.0
+The Pirate Fairy,70,81,,,,G,Peggy Holmes,"['Kids & Family', 'Fantasy', 'Adventure', 'Animation']",79,,,
+Bears,78,88,17800000,2014-04-18,2014.0,G,Alastair Fothergill,['Documentary'],77,4.0,Spring,2010.0
+Million Dollar Arm,68,65,36400000,2014-05-16,2014.0,PG,Craig Gillespie,['Drama'],123,5.0,Spring,2010.0
+Maleficent,70,54,241400000,2014-05-30,2014.0,PG,Robert Stromberg,"['Fantasy', 'Adventure', 'Action']",98,5.0,Spring,2010.0
+Planes: Fire & Rescue,56,44,59200000,2014-07-18,2014.0,PG,Bobs Gannaway,"['Kids & Family', 'Comedy', 'Adventure', 'Animation']",83,7.0,Summer,2010.0
+Khoobsurat,35,,,1999-11-26,1999.0,,Shashanka Ghosh,"['Romance', 'Comedy']",153,11.0,Fall,1990.0
+"Alexander and the Terrible, Horrible, No Good, Very Bad Day",58,62,67000000,2014-10-10,2014.0,PG,Miguel Arteta,"['Kids & Family', 'Comedy']",81,10.0,Fall,2010.0
+Big Hero 6,91,90,222500000,2014-11-07,2014.0,PG,Don Hall,"['Kids & Family', 'Comedy', 'Adventure', 'Action', 'Sci-Fi', 'Animation']",102,11.0,Fall,2010.0
+Into the Woods,49,70,128000000,2014-12-25,2014.0,PG,Rob Marshall,"['Musical', 'Fantasy']",124,12.0,Winter,2010.0
+"McFarland, USA",88,80,44500000,2015-02-20,2015.0,PG,Niki Caro,"['Drama', 'Biography']",129,2.0,Winter,2010.0
+Tinker Bell and the Legend of the NeverBeast,77,75,,,,G,Steve Loter,"['Kids & Family', 'Adventure', 'Fantasy', 'Animation']",76,,,
+Monkey Kingdom,76,93,16400000,2015-04-17,2015.0,G,Mark Linfield,['Documentary'],82,4.0,Spring,2010.0
+Tomorrowland,50,49,93400000,2015-05-22,2015.0,PG,Brad Bird,"['Sci-Fi', 'Adventure', 'Mystery & Thriller']",129,5.0,Spring,2010.0
+Inside Out,37,,,,,,David Ogden,['Mystery & Thriller'],95,,,
+ABCD 2,39,53,889700,2015-06-19,2015.0,,Remo D'Souza,['Drama'],152,6.0,Summer,2010.0
+The Good Dinosaur,64,76,123100000,2015-11-25,2015.0,PG,Peter Sohn,"['Kids & Family', 'Comedy', 'Adventure', 'Animation']",92,11.0,Fall,2010.0
+The Finest Hours,66,64,27600000,2016-01-29,2016.0,PG-13,Craig Gillespie,"['Adventure', 'Action', 'Mystery & Thriller', 'History', 'Drama']",116,1.0,Winter,2010.0
+Zootopia,92,98,,2016-03-04,2016.0,PG,Byron Howard,"['Kids & Family', 'Comedy', 'Adventure', 'Animation']",108,3.0,Spring,2010.0
+Tini: The Movie,70,,,,,G,Juan Pablo Buscarini,"['Romance', 'Adventure']",95,,,
+Alice Through the Looking Glass,50,,,,,TV-PG,John Henderson,"['Kids & Family', 'Fantasy']",83,,,
+Finding Dory,84,94,486200000,2016-06-17,2016.0,PG,Andrew Stanton,"['Kids & Family', 'Comedy', 'Adventure', 'Animation']",103,6.0,Summer,2010.0
+The BFG,64,,,,,,Brian Cosgrove,"['Kids & Family', 'Fantasy', 'Animation']",87,,,
+Queen of Katwe,86,94,8900000,2016-09-30,2016.0,PG,Mira Nair,"['Biography', 'Drama']",124,9.0,Fall,2010.0
+Moana,57,87,,1926-01-07,1926.0,,Robert J. Flaherty,['Documentary'],77,1.0,Winter,1920.0
+Growing Up Wild,87,,,,,G,Keith Scholey,['Documentary'],78,,,
+Dangal Yuddham,93,89,12400000,2016-12-21,2016.0,,Nitesh Tiwari,"['Biography', 'Drama', 'Action']",161,12.0,Winter,2010.0
+March of the Penguins 2: The Next Step,88,100,,,,,Luc Jacquet,"['Documentary', 'Nature']",82,,,
+Born in China,73,83,13900000,2017-04-21,2017.0,G,Chuan Lu,['Documentary'],79,4.0,Spring,2010.0
+Pirates of the Caribbean: Dead Men Tell No Tales,60,30,172500000,2017-05-26,2017.0,PG-13,Joachim Rønning,"['Adventure', 'Action', 'Fantasy']",123,5.0,Spring,2010.0
+Cars 3,69,70,152900000,2017-06-16,2017.0,G,Brian Fee,"['Kids & Family', 'Comedy', 'Adventure', 'Animation']",109,6.0,Summer,2010.0
+Disneynature: Ghost of the Mountains,90,,,,,G,Ben Wallis,['Documentary'],89,,,
+Jagga Jasoos,67,83,854200,,,,Anurag Basu,"['Musical', 'Adventure', 'Romance', 'Comedy']",180,,,
+The Last Warrior,,40,,,,R,Martin Wragge,['War'],94,,,
+Coco,15,,,,,,Gad Elmaleh,['Comedy'],95,,,
+Disneynature: Expedition China,,,,,,,,[],,,,
+A Wrinkle in Time,40,,,,,TV-PG,John Kent Harrison,"['Kids & Family', 'Adventure', 'Fantasy']",129,,,
+Incredibles 2,84,93,608600000,2018-06-15,2018.0,PG,Brad Bird,"['Kids & Family', 'Comedy', 'Adventure', 'Action', 'Animation']",118,6.0,Summer,2010.0
+Christopher Robin,83,73,99200000,2018-08-03,2018.0,PG,Marc Forster,"['Kids & Family', 'Comedy', 'Adventure', 'Fantasy']",104,8.0,Summer,2010.0
+The Nutcracker and the Four Realms,35,32,54800000,2018-11-02,2018.0,PG,Lasse Hallström,"['Kids & Family', 'Holiday', 'Fantasy', 'Adventure']",99,11.0,Fall,2010.0
+Ralph Breaks the Internet,64,88,201100000,2018-11-21,2018.0,PG,Phil Johnston,"['Kids & Family', 'Comedy', 'Adventure', 'Animation']",112,11.0,Fall,2010.0
+Mary Poppins Returns,65,79,172000000,2018-12-19,2018.0,PG,Rob Marshall,"['Kids & Family', 'Musical', 'Fantasy', 'Adventure']",130,12.0,Winter,2010.0
+Penguins,81,92,7700000,2019-04-17,2019.0,G,Jeff Wilson,['Documentary'],76,4.0,Spring,2010.0
+Toy Story 4,94,96,434000000,2019-06-21,2019.0,G,Josh Cooley,"['Kids & Family', 'Comedy', 'Adventure', 'Fantasy', 'Animation']",100,6.0,Summer,2010.0
+Maleficent: Mistress of Evil,95,40,113900000,2019-10-18,2019.0,PG,Joachim Rønning,"['Fantasy', 'Adventure']",118,10.0,Fall,2010.0
+Lady and the Tramp,80,91,,1955-06-22,1955.0,G,Clyde Geronimi,"['Kids & Family', 'Romance', 'Comedy', 'Animation']",76,6.0,Summer,1950.0
+Noëlle,59,50,242900,2007-12-07,2007.0,PG,David Wall,"['Holiday', 'Drama', 'Romance']",101,12.0,Winter,2000.0
+Frozen II,92,77,477400000,2019-11-22,2019.0,PG,Chris Buck,"['Kids & Family', 'Musical', 'Comedy', 'Adventure', 'Animation']",103,11.0,Fall,2010.0
+Togo,67,80,,,,,Israel Adrián Caetano,"['Mystery & Thriller', 'Drama']",92,,,
+Timmy Failure: Mistakes Were Made,62,85,,,,PG,Tom McCarthy,"['Kids & Family', 'Adventure', 'Comedy', 'Drama']",99,,,
+Onward,95,88,60400000,2020-03-06,2020.0,PG,Dan Scanlon,"['Kids & Family', 'Comedy', 'Adventure', 'Fantasy', 'Animation']",103,3.0,Spring,2020.0
+Stargirl,69,69,,,,PG,Julia Hart,"['Kids & Family', 'Romance', 'Comedy', 'Drama']",107,,,
+Disneynature: Dolphin Reef,91,100,,,,,Keith Scholey,['Documentary'],77,,,
+Elephant,78,74,1300000,2003-10-24,2003.0,R,Gus Van Sant,"['Drama', 'Crime']",81,10.0,Fall,2000.0
+Artemis Fowl,19,8,,,,PG,Kenneth Branagh,"['Fantasy', 'Adventure']",93,,,
+Hamilton,99,98,16900000,2025-09-05,2025.0,PG-13,Thomas Kail,['Musical'],161,9.0,Fall,2020.0
+Black Is King,89,94,,,,TV-14,Beyoncé,['Music'],85,,,
+Magic Camp,75,100,,2013-06-28,2013.0,,Judd Ehrlich,['Documentary'],86,6.0,Summer,2010.0
+The One and Only Ivan,65,72,,,,PG,Thea Sharrock,"['Kids & Family', 'Comedy', 'Adventure']",93,,,
+Mulan,85,91,120600000,1998-06-19,1998.0,G,Barry Cook,"['Kids & Family', 'Musical', 'Animation']",87,6.0,Summer,1990.0
+Godmothered,57,68,,,,PG,Sharon Maguire,"['Comedy', 'Fantasy']",110,,,
+Safety,78,78,,,,PG,Reginald Hudlin,"['Biography', 'Drama']",122,,,
+Soul,88,95,870600,2024-01-12,2024.0,PG,Pete Docter,"['Kids & Family', 'Comedy', 'Adventure', 'Animation']",100,1.0,Winter,2020.0
+The Last Warrior: Root of Evil,,,,,,,Dmitriy Dyachenko,['Fantasy'],121,,,
+Flora and Ulysses,60,73,,,,,Lena Khan,"['Adventure', 'Fantasy', 'Kids & Family', 'Comedy']",95,,,
+Raya and the Last Dragon,97,93,54700000,2021-03-05,2021.0,PG,Don Hall,"['Kids & Family', 'Fantasy', 'Adventure', 'Animation']",108,3.0,Spring,2020.0
+Cruella,97,75,86100000,2021-05-28,2021.0,PG-13,Craig Gillespie,"['Comedy', 'Kids & Family']",134,5.0,Spring,2020.0
+Lucía,86,,,,,,Niles Atallah,['Drama'],80,,,
+Jungle Cruise,92,62,117000000,2021-07-30,2021.0,PG-13,Jaume Collet-Serra,"['Adventure', 'Action', 'Comedy', 'Fantasy']",127,7.0,Summer,2020.0
+Encanto,93,92,96100000,2021-11-24,2021.0,PG,Jared Bush,"['Kids & Family', 'Musical', 'Comedy', 'Fantasy', 'Animation']",99,11.0,Fall,2020.0
+Diary of a Wimpy Kid,50,54,64000000,2010-03-19,2010.0,PG,Thor Freudenthal,"['Kids & Family', 'Comedy']",92,3.0,Spring,2010.0
+The Last Warrior,67,,,,,,Dmitriy Dyachenko,"['Fantasy', 'Comedy', 'Adventure']",114,,,
+The Ice Age Adventures of Buck Wild,32,19,,,,PG,John C. Donkin,"['Kids & Family', 'Comedy', 'Adventure', 'Animation']",81,,,
+The Beatles: Get Back - The Rooftop Concert,94,100,970900,2022-01-30,2022.0,PG-13,Peter Jackson,"['Documentary', 'Music']",94,1.0,Winter,2020.0
+Turning Red,67,95,1300000,2024-02-09,2024.0,PG,Domee Shi,"['Kids & Family', 'Comedy', 'Fantasy', 'Animation']",100,2.0,Winter,2020.0
+Cheaper by the Dozen,56,25,138600000,2003-12-25,2003.0,PG,Shawn Levy,['Comedy'],98,12.0,Winter,2000.0
+Better Nate Than Ever,75,83,,,,PG,Tim Federle,"['Kids & Family', 'Musical', 'Comedy']",91,,,
+Polar Bear,63,72,,,,PG,Alastair Fothergill,"['Documentary', 'Kids & Family', 'Nature']",84,,,
+Chip 'n' Dale: Rescue Rangers,79,81,,,,PG,Akiva Schaffer,"['Kids & Family', 'Comedy', 'Adventure']",96,,,
+Hollywood Stargirl,73,94,,,,PG,Julia Hart,"['Kids & Family', 'Romance', 'Drama', 'Comedy']",103,,,
+Lightyear,84,74,118300000,2022-06-17,2022.0,PG,Angus MacLane,"['Kids & Family', 'Comedy', 'Adventure', 'Sci-Fi', 'Animation', 'Action']",100,6.0,Summer,2020.0
+Rise,81,100,,2023-06-02,2023.0,,Cédric Klapisch,"['Comedy', 'Drama']",117,6.0,Summer,2020.0
+Pinocchio,33,0,3700000,2002-12-25,2002.0,G,Roberto Benigni,"['Kids & Family', 'Fantasy', 'Comedy', 'Drama']",107,12.0,Winter,2000.0
+Hocus Pocus 2,47,65,,,,PG,Anne Fletcher,"['Kids & Family', 'Holiday', 'Comedy', 'Fantasy']",103,,,
+The Disenchanted,41,100,5100,,,,Benoît Jacquot,['Drama'],79,,,
+Strange World,66,72,38000000,2022-11-23,2022.0,PG,Don Hall,"['Kids & Family', 'Comedy', 'Adventure', 'Fantasy', 'Animation', 'Action']",105,11.0,Fall,2020.0
+Diary of a Wimpy Kid: Rodrick Rules,46,56,,,,PG,Luke Cormican,"['Kids & Family', 'Comedy', 'Adventure', 'Drama', 'Animation']",100,,,
+Night at the Museum: Kahmunrah Rises Again,36,77,,,,PG,Matt Danner,"['Kids & Family', 'Fantasy', 'Comedy', 'Adventure', 'Animation']",77,,,
+Chang Can Dunk,71,96,,,,PG,Jingyi Shao,"['Kids & Family', 'Comedy', 'Sports']",109,,,
+Peter Pan & Wendy,11,63,,,,PG,David Lowery,"['Kids & Family', 'Fantasy', 'Adventure']",106,,,
+Crater,,,,,,,Luca Bellino,['Drama'],93,,,
+Elemental,60,100,,,,,Gayatri Roshan,['Documentary'],92,,,
+World's Best,81,100,,,,PG,Roshan Sethi,"['Musical', 'Comedy', 'Adventure']",101,,,
+Indiana Jones and the Dial of Destiny,87,71,174500000,2023-06-30,2023.0,PG-13,James Mangold,"['Adventure', 'Action']",144,6.0,Summer,2020.0
+The Haunted Mansion,31,14,75800000,2003-11-26,2003.0,PG,Rob Minkoff,"['Kids & Family', 'Comedy', 'Fantasy']",88,11.0,Fall,2000.0
+Dashing Through the Snow,63,30,,,,PG,Tim Story,"['Kids & Family', 'Holiday', 'Comedy', 'Adventure', 'Fantasy']",90,,,
+Wish,,,,,,,Lee Seong-han,"['Drama', 'Action']",108,,,
+Diary of a Wimpy Kid Christmas: Cabin Fever,57,75,,,,PG,Luke Cormican,"['Kids & Family', 'Holiday', 'Comedy', 'Animation', 'Drama']",64,,,
+Tiger,,,,,,,Nandakishore,"['Mystery & Thriller', 'Drama']",155,,,
+The Beach Boys,80,89,,2024-05-21,2024.0,PG-13,Frank Marshall,"['Documentary', 'Music']",113,5.0,Spring,2020.0
+Young Woman and the Sea,96,88,,2024-05-31,2024.0,PG,Joachim Rønning,"['Biography', 'History', 'Drama']",129,5.0,Spring,2020.0
+Inside Out 2,94,91,653000000,2024-06-14,2024.0,PG,Kelsey Mann,"['Kids & Family', 'Comedy', 'Adventure', 'Animation']",96,6.0,Summer,2020.0
+Blink,51,68,16700000,,,R,Michael Apted,['Mystery & Thriller'],106,,,
+Moana 2,85,60,460400000,2024-11-27,2024.0,PG,David G. Derrick Jr.,"['Kids & Family', 'Musical', 'Comedy', 'Adventure', 'Animation']",100,11.0,Fall,2020.0
+Mufasa: The Lion King,88,56,254600000,2024-12-20,2024.0,PG,Barry Jenkins,"['Kids & Family', 'Adventure', 'Drama', 'Animation']",118,12.0,Winter,2020.0
+Snow White,,,,,,,,[],,,,
+"Alexander and the Terrible, Horrible, No Good, Very Bad Road Trip",46,58,,,,PG,Marvin Lemus,"['Kids & Family', 'Comedy', 'Drama']",96,,,
+Sea Lions of the Galapagos,,,,,,,Hugh Wilson,"['Documentary', 'Nature']",83,,,
+Elio,89,83,73000000,2025-06-20,2025.0,PG,Madeline Sharafian,"['Kids & Family', 'Comedy', 'Adventure', 'Sci-Fi', 'Animation']",98,6.0,Summer,2020.0
+Freakier Friday,91,74,94200000,2025-08-08,2025.0,PG,Nisha Ganatra,"['Kids & Family', 'Comedy', 'Fantasy']",110,8.0,Summer,2020.0
+TRON: Ares,85,53,66400000,2025-10-10,2025.0,PG-13,Joachim Rønning,"['Sci-Fi', 'Action', 'Adventure']",119,10.0,Fall,2020.0
