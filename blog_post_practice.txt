@@ -54,25 +54,30 @@ Summary of steps to obtain data (emphasis on teaching other how to get started w
 
 Summary information/statistics/graphics-
     (Concerning info: total sample size, counts of categorical variables, numerical summaries of numeric variables)
+Our total sample size was 523 movies. 
+We had 13 variables: Title, Audience Score, Critic Score, Revenue, Release Date, Year, Film Rating, Director, Genre, Runtime, Month, Season, and Decade.
+7 were categorical, and 6 were quantitative, and we included the release date (year-month-day) in categorical.
 mean Revenue                        83668368.78
 mean Audience-Score                 61.017    
 mean Critic-Score                   62.65               
-Audience and Critic coralation      0.72
+Audience and Critic correlation     0.72
 
 
 
 Most interesting findings-
 1. Movie ratings appear to be consistently going up each decade (on average), indicating that movies are getting better. 
+![movie-scores-by-decade](movie_scores_decade.png)
 2. Movies rated R have the lowest revenue amount on average (this may be affected by the low number of R-rated movies).
 3. Movies rated PG-13 have a noticeable but slight average increase in revenue.
+![rating-and-revenue](rating-and-revenue.png)
 4. TV-14 is the highest-rated film on average, with TV-PG the lowest.
-
+![rating-and-score](score-and-rating.png)
 
 
 Links to further info and resources-
-Original movie source: https://en.wikipedia.org/wiki/List_of_Walt_Disney_Pictures_films
-Source for ratings: https://www.rottentomatoes.com/
-Related sources others could use: https://www.metacritic.com/movie/  and  https://www.imdb.com/
+Original movie source: [link1](https://en.wikipedia.org/wiki/List_of_Walt_Disney_Pictures_films)
+Source for ratings: [link2](https://www.rottentomatoes.com/)
+Related sources others could use: [link3](https://www.metacritic.com/movie/)  and  [link4](https://www.imdb.com/)
 
 Link to code in separate github repo-
-https://github.com/CNelson2004/Movies_Analysis
+[link5](https://github.com/CNelson2004/Movies_Analysis)
